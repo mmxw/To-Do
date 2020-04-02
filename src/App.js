@@ -8,11 +8,11 @@ import TodoForm from './TodoForm';
 function App() {
   const [todos, setToDos] = useState([
     { 
-      text: "write cover letter for privitar",
+      text: "write cover letter",
       isCompleted: false 
     },
     { 
-      text: "submit application to privitar", 
+      text: "submit application", 
       isCompleted: false 
     },
     { 
